@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Miracle 👋
 
-<!--
-**Miracle-Godwin-Ogbo/Miracle-Godwin-Ogbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Junior Penetration Tester | Cybersecurity Analyst
 
-Here are some ideas to get you started:
+I am a cybersecurity practitioner with hands-on experience in vulnerability assessment, network enumeration, and attack simulation within controlled lab environments. I focus on identifying security weaknesses, exploiting common vulnerabilities, and analyzing security events.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Core Skills
+- Vulnerability Assessment & Penetration Testing  
+- Network Scanning & Service Enumeration  
+- Brute-Force & Credential Attacks  
+- Web Application Testing  
+- OSINT & Reconnaissance  
+- Log Analysis & Incident Detection  
+
+## 🔧 Tools & Technologies
+**Offensive Security:**  
+Nmap | Metasploit | Hydra | SQLmap | OWASP ZAP | Sn1per | CMSeeK | Slowloris  
+
+**Reconnaissance & OSINT:**  
+Maltego | theHarvester | Google Dorking  
+
+**Monitoring & Analysis:**  
+Splunk | Wireshark  
+
+**Environment:**  
+Kali Linux | Windows  
+
+## 📂 Featured Projects
+- 🔹 Network Scanning & Enumeration Lab  
+- 🔹 Brute Force Attack Simulation (Hydra + Crunch)  
+- 🔹 Splunk Log Analysis & Threat Detection  
+- 🔹 Phishing Simulation (Gophish + Mailtrap)  
+- 🔹 DoS Attack Simulation (Slowloris via Metasploit)  
+
+## 📫 Contact
+- LinkedIn: (linkedin.com/in/miracle-godwin-ogbo-19a3a2241)  
+- Email: (miracleogbo@gmail.com)
