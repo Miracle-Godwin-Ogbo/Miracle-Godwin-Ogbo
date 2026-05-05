@@ -14,7 +14,7 @@ I am a cybersecurity practitioner with hands-on experience in vulnerability asse
 
 ##  Tools & Technologies
 **Offensive Security:**  
-Nmap | Metasploit | Crunch | Hydra | SQLmap | OWASP ZAP | Sn1per | CMSeeK | Slowloris  
+Nmap | Crunch | Hydra | SQLmap | OWASP ZAP | Sn1per | CMSeeK | Slowloris  
 
 **Reconnaissance & OSINT:**  
 Maltego | theHarvester | Google Dorking  
