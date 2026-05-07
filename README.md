@@ -26,11 +26,11 @@ Splunk | Wireshark
 Kali Linux | Windows  
 
 ##  Featured Projects
-- 🔹 Network Scanning & Enumeration Lab  
-- 🔹 Brute Force Attack Simulation (Hydra + Crunch)  
-- 🔹 Splunk Log Analysis & Threat Detection  
-- 🔹 Phishing Simulation (Gophish + Mailtrap)  
-- 🔹 DoS Attack Simulation (Slowloris via Metasploit)  
+🔹 Network Scanning & Enumeration Lab  
+🔹 Brute Force Attack Simulation (Hydra + Crunch)  
+🔹 Splunk Log Analysis & Threat Detection  
+🔹 Phishing Simulation (Gophish + Mailtrap)  
+🔹 DoS Attack Simulation (Slowloris via Metasploit)  
 
 ##  Contact
 - LinkedIn: https://www.linkedin.com/in/miracle-godwin-ogbo-19a3a2241
