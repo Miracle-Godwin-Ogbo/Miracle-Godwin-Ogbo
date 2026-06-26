@@ -1,6 +1,6 @@
 # Hi, I'm Miracle 👋
 
-## Junior Penetration Tester | Cybersecurity Analyst
+## Aspiring Penetration Tester 
 
 I am a cybersecurity practitioner with hands-on experience in vulnerability assessment, wireless security testing, OSINT investigations, attack surface mapping, threat analysis, and security reporting within controlled and authorized environments.
 
