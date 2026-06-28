@@ -111,7 +111,7 @@ To build a career in Penetration Testing, Security Operations (SOC), Threat Anal
 
 * 💼 LinkedIn: [www.linkedin.com/in/miracle-godwin-ogbo-19a3a2241](http://www.linkedin.com/in/miracle-godwin-ogbo-19a3a2241)
 * 📧 Email: [miracleogbo@gmail.com](mailto:miracleogbo@gmail.com)
-* 💻 GitHub: github.com/Miracle-Godwin-Ogbo
+* 💻 GitHub: [github.com/Miracle-Godwin-Ogbo](https://github.com/Miracle-Godwin-Ogbo)
 
 ---
 
