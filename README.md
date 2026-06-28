@@ -1,106 +1,118 @@
 # Hi, I'm Miracle 👋
 
-## Aspiring Penetration Tester 
+## Aspiring Penetration Tester | Cybersecurity Enthusiast | Python Security Developer
 
-I am a cybersecurity practitioner with hands-on experience in vulnerability assessment, wireless security testing, OSINT investigations, attack surface mapping, threat analysis, and security reporting within controlled and authorized environments.
+I'm an aspiring Penetration Tester with hands-on experience in vulnerability assessment, wireless security testing, web security assessment, network reconnaissance, attack simulation, security reporting, and Python-based security tool development within controlled and authorized environments.
 
-My experience includes identifying security weaknesses, analyzing attack surfaces, performing reconnaissance, assessing wireless and web application security, mapping findings to industry-standard frameworks, and developing remediation recommendations.
+I enjoy identifying security weaknesses, analyzing attack surfaces, and developing practical security solutions. My recent work includes security assessments, professional technical reports, and Python applications that apply cybersecurity principles to solve real-world security challenges.
 
 ---
 
-## Core Skills
+# 🛡️ Core Competencies
 
-* Vulnerability Assessment & Penetration Testing
+* Penetration Testing (Learning & Labs)
+* Vulnerability Assessment
 * Wireless Security Assessment
-* Network Scanning & Service Enumeration
+* Web Application Security Assessment
+* Network Reconnaissance & Enumeration
 * OSINT & Attack Surface Mapping
-* Web Application Security Testing
-* Threat Analysis & Risk Assessment
-* MITRE ATT&CK Mapping
-* CVE, CWE, CVSS & EPSS Analysis
-* NVD Research & Vulnerability Intelligence
-* OWASP Top 10 Security Assessment
+* Python for Cybersecurity
+* Password Security & Authentication
 * Security Monitoring & Log Analysis
+* Risk Assessment
 * Technical Security Reporting
-* NIST Cybersecurity Framework Alignment
-* Data Protection & Compliance Awareness (NDPA)
+* MITRE ATT&CK Mapping
+* NIST Cybersecurity Framework
+* OWASP Top 10
+* CVE & CWE Analysis
 
 ---
 
-## Tools & Technologies
+# 💻 Technical Skills
+
+### Programming
+
+* Python
+* Git
+* GitHub
 
 ### Offensive Security
 
-Nmap | Hydra | SQLmap | OWASP ZAP | BeEF-XSS | CMSeeK | Sn1per | Airgeddon | Airodump-ng | Crunch
+* Kali Linux
+* Nmap
+* SQLMap
+* Hydra
+* OWASP ZAP
+* Sn1per
+* Airgeddon
+* Airodump-ng
 
-### Reconnaissance & OSINT
+### Security Analysis
 
-Maltego | theHarvester | Google Dorking | WafW00F | WHOIS | Netcraft | BuiltWith
-
-### Monitoring & Analysis
-
-Wireshark | Splunk
-
-### Security Frameworks & Standards
-
-MITRE ATT&CK | OWASP Top 10 | CVE | CWE | CVSS | EPSS | NVD | NIST CSF | NDPA
-
-### Environment
-
-Kali Linux | Windows
+* Wireshark
+* Splunk
+* Maltego
+* theHarvester
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### Enterprise Wireless Security Assessment
+## 🔐 Password Strength Checker (Python)
 
-* Wireless reconnaissance and RF analysis
+A Python-based security application developed during my DecodeLabs Internship that:
+
+* Evaluates password complexity
+* Detects common passwords vulnerable to dictionary attacks
+* Assigns a password strength score
+* Provides recommendations based on password security best practices
+
+---
+
+## 📡 Enterprise Wireless Security Assessment
+
+* Wireless reconnaissance
 * WPA/WPA2/WPA3 security assessment
 * Rogue device detection
 * MITRE ATT&CK mapping
-* Wireless SOC monitoring plan
-* Enterprise wireless redesign architecture
-
-### National Critical Information Infrastructure (NCII) Assessment
-
-* OSINT and attack surface mapping
-* Vulnerability and weakness analysis
-* CVE, CWE, CVSS and EPSS assessment
-* NIST framework alignment
-* NDPA compliance review
-* Threat impact and remediation planning
-
-### Additional Projects
-
-* Network Scanning & Enumeration Lab
-* Brute Force Attack Simulation (Hydra + Crunch)
-* Splunk Log Analysis & Threat Detection
-* Phishing Simulation (Gophish + Mailtrap)
-* DoS Attack Simulation (Slowloris)
+* Security recommendations
 
 ---
 
-## Currently Learning
+## 🏛 National Critical Information Infrastructure (NCII) Assessment
+
+* Attack surface mapping
+* Vulnerability assessment
+* CVE/CWE analysis
+* NIST CSF alignment
+* Risk assessment
+* Remediation planning
+
+---
+
+# 📚 Currently Learning
 
 * Advanced Penetration Testing
+* Secure Python Development
 * Threat Hunting
 * Security Operations (SOC)
+* Active Directory Security
 * Attack Surface Management
-* Vulnerability Management
-* Security Architecture Review
-* Security Governance, Risk & Compliance (GRC)
 
 ---
 
-## Contact
+# 🎯 Career Goal
 
-🔗 LinkedIn: [www.linkedin.com/in/miracle-godwin-ogbo-19a3a2241](http://www.linkedin.com/in/miracle-godwin-ogbo-19a3a2241)
-
-📧 Email: [miracleogbo@gmail.com](mailto:miracleogbo@gmail.com)
-
-💻 GitHub: github.com/Miracle-Godwin-Ogbo
+To build a career in Penetration Testing, Security Operations (SOC), Threat Analysis, and Cybersecurity Consulting while continuously improving my technical expertise and contributing to stronger security practices.
 
 ---
 
-> "Cybersecurity is not only about finding vulnerabilities; it is about understanding risk, communicating impact, and helping organizations build stronger defenses."
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [www.linkedin.com/in/miracle-godwin-ogbo-19a3a2241](http://www.linkedin.com/in/miracle-godwin-ogbo-19a3a2241)
+* 📧 Email: [miracleogbo@gmail.com](mailto:miracleogbo@gmail.com)
+* 💻 GitHub: github.com/Miracle-Godwin-Ogbo
+
+---
+
+> *"Cybersecurity is not only about finding vulnerabilities; it's about understanding risk, communicating impact, and helping organizations build stronger defenses."*
