@@ -2,9 +2,11 @@
 
 ## Aspiring Penetration Tester | Cybersecurity Enthusiast | Python Security Developer
 
-I'm an aspiring Penetration Tester with hands-on experience in vulnerability assessment, wireless security testing, web security assessment, network reconnaissance, attack simulation, security reporting, and Python-based security tool development within controlled and authorized environments.
+I'm an aspiring Penetration Tester with hands-on experience in vulnerability assessment, wireless security testing, web security assessment, network reconnaissance, attack simulation, phishing analysis, security reporting, and Python-based security tool development within controlled and authorized lab environments.
 
-I enjoy identifying security weaknesses, analyzing attack surfaces, and developing practical security solutions. My recent work includes security assessments, professional technical reports, and Python applications that apply cybersecurity principles to solve real-world security challenges.
+I enjoy identifying security weaknesses, analyzing attack surfaces, investigating phishing techniques, and developing practical security solutions. My recent work includes wireless security assessments, web security assessments, phishing awareness analysis, professional technical reports, and Python security tools such as a Password Strength Checker and a Caesar Cipher Encryption & Decryption Tool.
+
+I'm continuously strengthening my offensive and defensive security skills through practical cybersecurity projects, hands-on labs, and continuous learning. My goal is to build a career in Penetration Testing, Vulnerability Assessment, and Cybersecurity Analysis while helping organizations improve their security posture.
 
 ---
 
