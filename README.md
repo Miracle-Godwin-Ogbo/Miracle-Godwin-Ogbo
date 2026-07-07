@@ -123,7 +123,6 @@ I'm continuously strengthening my offensive and defensive security skills throug
 - Advanced Penetration Testing
 - Web Application Security
 - Secure Python Development
-- Security Operations (SOC)
 - Threat Hunting
 - Active Directory Security
 
