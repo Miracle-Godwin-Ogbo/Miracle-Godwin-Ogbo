@@ -1,8 +1,8 @@
 # Hi, I'm Miracle 👋
 
-## Aspiring Penetration Tester | Cybersecurity Enthusiast | Python Security Developer
+## Junior Penetration Tester | Cybersecurity Enthusiast | Python Security Developer
 
-I'm an aspiring Penetration Tester with hands-on experience in vulnerability assessment, wireless security testing, web security assessment, network reconnaissance, attack simulation, phishing awareness, secure coding review, network intrusion detection, packet capture, traffic analysis, security reporting, and Python-based security tool development within controlled and authorized lab environments.
+I'm a Junior Penetration Tester with hands-on experience in vulnerability assessment, wireless security testing, web security assessment, network reconnaissance, attack simulation, phishing awareness, secure coding review, network intrusion detection, packet capture, traffic analysis, security reporting, and Python-based security tool development within controlled and authorized lab environments.
 
 I enjoy identifying security weaknesses, analyzing attack surfaces, investigating phishing techniques, monitoring network traffic, and developing practical security solutions. My recent work includes wireless security assessments, National Critical Information Infrastructure (NCII) security assessments, web security assessments, phishing awareness training, secure coding reviews, checklist-based vulnerability assessments of Windows workstations and websites, network intrusion detection using Snort, professional technical reports, and Python security tools such as a Password Strength Checker, Caesar Cipher Encryption & Decryption Tool, and a Basic Network Sniffer.
 
