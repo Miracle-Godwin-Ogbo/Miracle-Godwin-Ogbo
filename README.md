@@ -2,173 +2,153 @@
 
 ## Junior Penetration Tester | Cybersecurity Enthusiast | Python Security Developer
 
-I'm a Junior Penetration Tester with hands-on experience in vulnerability assessment, wireless security testing, web security assessment, network reconnaissance, attack simulation, phishing awareness, secure coding review, network intrusion detection, packet capture, traffic analysis, security reporting, and Python-based security tool development within controlled and authorized lab environments.
+I'm a Junior Penetration Tester with hands-on experience in vulnerability assessment, web application security testing, wireless security assessment, network reconnaissance, attack simulation, security testing, secure coding review, Active Directory security labs, and Python-based security tool development within controlled and authorized environments.
 
-I enjoy identifying security weaknesses, analyzing attack surfaces, investigating phishing techniques, monitoring network traffic, and developing practical security solutions. My recent work includes wireless security assessments, National Critical Information Infrastructure (NCII) security assessments, web security assessments, phishing awareness training, secure coding reviews, checklist-based vulnerability assessments of Windows workstations and websites, network intrusion detection using Snort, professional technical reports, and Python security tools such as a Password Strength Checker, Caesar Cipher Encryption & Decryption Tool, and a Basic Network Sniffer.
+I enjoy identifying vulnerabilities, analyzing attack surfaces, understanding attack techniques, and developing practical security solutions. My practical experience includes wireless security assessments, National Critical Information Infrastructure (NCII) security assessments, web security assessments, secure coding reviews, Windows workstation security assessments, network traffic analysis, Active Directory and Windows Server configuration, and technical security reporting.
 
-I'm continuously strengthening my offensive and defensive security skills through practical cybersecurity projects, hands-on labs, internships, and continuous learning. My goal is to build a career in Penetration Testing, Vulnerability Assessment, Security Operations (SOC), and Cybersecurity Analysis while helping organizations strengthen their security posture.
+I have also developed Python security tools including a Password Strength Checker, Caesar Cipher Encryption & Decryption Tool, and Basic Network Sniffer.
 
 ---
 
 # 🛡️ Core Competencies
 
-* Penetration Testing (Learning & Labs)
-* Vulnerability Assessment
-* Wireless Security Assessment
-* Web Security Assessment
-* Network Intrusion Detection (Snort)
-* Phishing Detection & Awareness
-* Secure Coding Review
-* Network Reconnaissance & Enumeration
-* OSINT & Attack Surface Mapping
-* Python for Cybersecurity
-* Password Security & Authentication
-* Security Monitoring & Basic SIEM (Splunk)
-* Packet Capture & Traffic Analysis
-* Risk Assessment
-* Technical Security Reporting
-* Security Documentation
-* MITRE ATT&CK Mapping
-* NIST Cybersecurity Framework
-* OWASP Top 10
-* CVE & CWE Analysis
+- Penetration Testing (Authorized Labs)
+- Vulnerability Assessment
+- Web Application Security Testing
+- Wireless Security Assessment
+- Network Reconnaissance & Enumeration
+- Attack Surface Mapping
+- Active Directory Security
+- Windows Server Security
+- Secure Coding Review
+- Security Testing & Attack Simulation
+- OSINT
+- Packet Capture & Traffic Analysis
+- Python for Cybersecurity
+- Password Security & Authentication
+- Technical Security Reporting
+- Security Documentation
 
 ---
 
 # 💻 Technical Skills
 
-## Programming
+## Programming & Development
 
-* Python
-* GitHub
-* Markdown
+- Python
+- Git
+- GitHub
+- Markdown
 
 ## Offensive Security
 
-* Kali Linux
-* Nmap
-* SQLMap
-* Hydra
-* OWASP ZAP
-* Sn1per
-* Airgeddon
-* Airodump-ng
+- Kali Linux
+- Nmap
+- SQLMap
+- Hydra
+- Metasploit
+- OWASP ZAP
+- Sn1per
+- Airgeddon
+- Airodump-ng
 
 ## Security Analysis
 
-* Wireshark
-* Snort IDS
-* Scapy
-* Splunk
-* Maltego
-* theHarvester
+- Wireshark
+- Scapy
+- Maltego
+- theHarvester
+- Snort IDS
+- Splunk
+
+## Windows & Active Directory
+
+- Windows Server 2022
+- Active Directory Domain Services (AD DS)
+- DNS
+- Organizational Units (OUs)
+- User & Security Group Management
+- Group Policy Management
+- Domain Password Policies
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔐 Password Strength Checker (Python)
+## 🔐 Password Strength Checker
 
-* Evaluates password complexity.
-* Detects common passwords vulnerable to dictionary attacks.
-* Provides practical password security recommendations.
-
----
+Python-based password security tool that evaluates password strength based on length, character requirements, and common-password checks.
 
 ## 🔒 Caesar Cipher Encryption & Decryption Tool
 
-* Python implementation of a classical encryption algorithm.
-* Demonstrates symmetric encryption principles.
-* Applies modular arithmetic and ASCII/Unicode character encoding.
-
----
+Python implementation of the Caesar cipher demonstrating basic encryption and decryption concepts using character shifting and modular arithmetic.
 
 ## 🌐 Basic Network Sniffer
 
-* Built using Python and Scapy.
-* Captures live network traffic.
-* Displays source and destination IPs, ports, protocols, services, payloads, and packet statistics.
-* Supports TCP, UDP, and ICMP packet analysis.
+Built using Python and Scapy to capture and analyze network packets, including IP addresses, ports, protocols, services, and packet information.
 
----
+## 🛡️ Network Intrusion Detection System
 
-## 🛡️ Network Intrusion Detection System (Snort)
-
-* Configured a Snort-based Network IDS.
-* Developed custom detection rules.
-* Detected ICMP Echo Requests, TCP SYN scans, SQL injection attempts, FTP, and Telnet traffic.
-* Validated alerts using live network traffic.
-
----
-
-## 🎣 Phishing Awareness Training
-
-* Developed phishing awareness training materials.
-* Explained phishing attacks, fake websites, and social engineering techniques.
-* Documented security best practices for preventing phishing attacks.
-
----
-
-## 🔍 Secure Coding Review
-
-* Performed security reviews of application source code.
-* Identified potential security vulnerabilities.
-* Recommended remediation and secure coding best practices.
-
----
-
-## 🛡️ Vulnerability Assessment Checklist
-
-* Performed a checklist-based assessment of a Windows workstation.
-* Conducted a passive security assessment of the DecodeLabs website.
-* Evaluated security controls and documented findings.
-* Produced a professional vulnerability assessment report and security checklist.
-
----
+Configured a Snort-based IDS and developed custom detection rules for identifying suspicious network activity including ICMP traffic, TCP SYN scans, SQL injection attempts, FTP, and Telnet traffic.
 
 ## 📡 Enterprise Wireless Security Assessment
 
-* Wireless reconnaissance.
-* WPA/WPA2/WPA3 security assessment.
-* Rogue device detection.
-* MITRE ATT&CK mapping.
-* Security recommendations.
+Performed wireless reconnaissance, WPA2 handshake and PMKID analysis, packet inspection, Evil Twin attack simulation, and offline password assessment in a controlled laboratory environment.
+
+## 🏛️ NCII Security Assessment
+
+Performed OSINT reconnaissance, attack surface mapping, vulnerability analysis, CVE/CWE/OWASP mapping, threat modeling, risk assessment, and remediation planning across multiple sectors.
+
+## 🖥️ Active Directory & Windows Server Security Lab
+
+Configured a Windows Server 2022 domain environment including Active Directory Domain Services, DNS, Organizational Units, users, departmental security groups, group memberships, and Group Policy settings.
+
+## 🔍 Secure Coding Review
+
+Performed security reviews of application source code, identified potential vulnerabilities, and provided remediation recommendations based on secure coding practices.
+
+## 🛡️ Vulnerability Assessment
+
+Performed checklist-based security assessments of a Windows workstation and web application environment, documented findings, evaluated security controls, and produced technical security reports.
 
 ---
 
-## 🏛️ National Critical Information Infrastructure (NCII) Assessment
+# 📚 Frameworks & Standards
 
-* Attack surface mapping.
-* Vulnerability assessment.
-* CVE/CWE analysis.
-* NIST Cybersecurity Framework alignment.
-* Risk assessment.
-* Remediation planning.
+- OWASP Top 10
+- MITRE ATT&CK
+- NIST Cybersecurity Framework (NIST CSF)
+- CVE
+- CWE
+- CVSS
+- EPSS
+- National Vulnerability Database (NVD)
 
 ---
 
 # 📚 Currently Learning
 
-* Advanced Penetration Testing
-* Web Application Security
-* Secure Python Development
-* Threat Hunting
-* Active Directory Security
+- Advanced Penetration Testing
+- Web Application Security
+- Active Directory Security
+- Windows Security
+- Secure Python Development
+- Offensive Security Techniques
 
 ---
 
-# 🎯 Career Goal
+# 🎯 Career Focus
 
-To build a career in Penetration Testing, Vulnerability Assessment, Security Operations (SOC), and Cybersecurity Consulting while continuously expanding my technical expertise, developing practical security solutions, and helping organizations strengthen their security posture.
+My goal is to build a professional career in **Penetration Testing and Offensive Security**, continuously developing my ability to identify vulnerabilities, simulate real-world attacks in authorized environments, assess security risks, and provide practical remediation recommendations.
 
 ---
 
 # 📫 Connect With Me
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/miracle-godwin-ogbo-19a3a2241
-* 📧 **Email:** [miracleogbo@gmail.com](mailto:miracleogbo@gmail.com)
-* 💻 **GitHub:** https://github.com/Miracle-Godwin-Ogbo
+- 💼 **LinkedIn:** https://www.linkedin.com/in/miracle-godwin-ogbo-19a3a2241
+- 📧 **Email:** miracleogbo@gmail.com
+- 💻 **GitHub:** https://github.com/Miracle-Godwin-Ogbo
 
 ---
 
-> *"Cybersecurity is not only about finding vulnerabilities; it's about understanding risk, communicating impact, and helping organizations build stronger defenses."*
+> *"Cybersecurity is not only about finding vulnerabilities; it's about understanding how they can be exploited and helping organizations build stronger defenses."*
