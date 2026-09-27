@@ -1,6 +1,6 @@
 # Hi, I'm Miracle 👋
 
-## Junior Penetration Tester | Cybersecurity Enthusiast | Python Security Developer
+## Junior Penetration Tester | Cybersecurity Analyst | Python Security Developer
 
 I'm a Junior Penetration Tester with hands-on experience in vulnerability assessment, web application security testing, wireless security assessment, network reconnaissance, attack simulation, security testing, secure coding review, Active Directory security labs, and Python-based security tool development within controlled and authorized environments.
 
